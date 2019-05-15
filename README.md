@@ -1,2 +1,0 @@
-# memoryGame
-Udacity Memory Game
